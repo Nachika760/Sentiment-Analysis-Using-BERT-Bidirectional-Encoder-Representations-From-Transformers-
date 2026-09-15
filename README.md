@@ -71,14 +71,16 @@ High classification accuracy.
 Requires less manual feature extraction.
 Can be adapted to various NLP tasks.
 Uses transfer learning from a pre-trained model.
+Visualisation:
+<img width="774" height="581" alt="image" src="https://github.com/user-attachments/assets/8b87becc-5119-47e7-86fd-3e6d3e6a5675" />
 
-9. Future Scope: 
+10. Future Scope: 
 The project can be improved in several ways:
 Using advanced transformer models such as RoBERTa and DeBERTa.
 Developing a real-time sentiment analysis application.
 Extending the system for multilingual sentiment classification.
 Deploying the model using cloud platforms.
 
-10. Conclusion: 
+11. Conclusion: 
 In this project, a sentiment analysis system was successfully developed using the BERT transformer model. The complete pipeline including data preprocessing, BERT tokenization, model fine-tuning, evaluation, and prediction was implemented.
 This project shows the importance of deep learning and transformer architectures in solving modern Natural Language Processing problems. The developed model can be further extended for real-world applications such as customer feedback analysis, social media monitoring, and automated opinion mining
