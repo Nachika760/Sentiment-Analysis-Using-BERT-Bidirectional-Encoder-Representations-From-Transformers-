@@ -1,0 +1,2 @@
+# Sentiment-Analysis-Using-BERT-Bidirectional-Encoder-Representations-From-Transformers-
+Sentiment analysis is a Natural Language Processing (NLP) technique used to identify and classify the emotional tone expressed in textual data. The digital platforms such as social media, online shopping websites and customer feedback systems, large amounts of text data.The main objective is to classify text reviews Positive, Negative, and Neutral.
