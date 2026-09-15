@@ -72,7 +72,25 @@ Requires less manual feature extraction.
 Can be adapted to various NLP tasks.
 Uses transfer learning from a pre-trained model.
 Visualisation:
+
+(a) Confusion Matrix : Shows correct and incorrect predictions for each sentiment class.
 <img width="774" height="581" alt="image" src="https://github.com/user-attachments/assets/8b87becc-5119-47e7-86fd-3e6d3e6a5675" />
+(b) Performance Comparison Graph: Compares accuracy, precision, recall, and F1-score. 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0a6e9e20-7c2f-46eb-94fe-726b5945cf84" />
+(c) Training and Validation Loss Curves: 
+Shows the learning character of the model during training.
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8eed4b82-1fe4-417d-8ea7-ec9d14fa10d4" /> 
+
+(d) This is the Positive Reviews Word Cloud figure
+<img width="1095" height="539" alt="image" src="https://github.com/user-attachments/assets/d25a6d84-761f-4e12-aa93-69375d7487fe" />
+(e) This is the Negative Reviews Word Cloud figure
+<img width="1008" height="498" alt="image" src="https://github.com/user-attachments/assets/3129dfd6-4dbe-4c43-9ca2-172ba49223da" />
+(f): This is The Review length Boxplot Figure.
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/2721dd4c-6df0-4d1e-9cc9-5b3cd57f07d7" />
+
+
+
+
 
 10. Future Scope: 
 The project can be improved in several ways:
